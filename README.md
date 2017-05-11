@@ -3,7 +3,7 @@ A quick script to copy and paste into Chrome Console while viewing a playlist pa
 1) Navigate to playlist page like: 
    https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz
 
-2) paste script.js into browser console
+2) paste script.js into browser console: https://developers.google.com/web/tools/chrome-devtools/console/
 
 
 3) Output:
